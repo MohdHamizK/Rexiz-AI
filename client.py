@@ -3,8 +3,7 @@ from openai import OpenAI
 # pip install openai 
 # if you saved the key under a different environment variable name, you can do something like:
 client = OpenAI(
-  base_url="https://openrouter.ai/api/v1",
-  api_key="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", 
+  api_key="Your OpenAI API_KEY", 
 )
 
 command = client.chat.completions.create(
