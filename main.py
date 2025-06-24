@@ -10,7 +10,7 @@ import os
 
 r = sr.Recognizer()
 engine = pyttsx3.init() 
-newsapi = "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"
+newsapi = "Your OpenAI API_KEY"
 
 def speak_old(text):
     engine.say(text)
@@ -33,8 +33,7 @@ def speak(text):
 
 def aiProcess(command):
     client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key="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", 
+    api_key="Your OpenAI API_KEY",
 )
     command = client.chat.completions.create(
     model="openai/gpt-4o",
@@ -116,7 +115,6 @@ if __name__ == "__main__":
         except sr.UnknownValueError:
             speak("I could not Hear you")
         except Exception as e:
-            print(f"An error occurred: {e}")
             speak("An error occurred, please try again.")
 
             
