@@ -10,7 +10,7 @@
 Rexiz AI is a **Jarvis-style Python voice assistant** that responds to wake-word activation, performs intelligent tasks, and interacts with external services using speech. Designed to act like a lightweight version of Alexa or Google Assistant, Rexiz is built with `speech recognition`, `GPT-4o`, `text-to-speech synthesis`, and a custom command processor that integrates AI and real-time utilities like web search, music playback, and news briefings.
 
 
-## 🚀 Features
+# 🚀 Features
 
 - 🗣️ **Wake Word Activation** (`"Hey Rexiz` as the keyword)
 - 🎧 **Voice Recognition** using `speech_recognition` and Google API
@@ -23,7 +23,7 @@ Rexiz AI is a **Jarvis-style Python voice assistant** that responds to wake-word
 - 🧪 **Command Parsing & AI Routing** for fallback NLP
 
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 | Layer               | Technology Used                          |
 |---------------------|------------------------------------------|
@@ -34,21 +34,21 @@ Rexiz AI is a **Jarvis-style Python voice assistant** that responds to wake-word
 | **Python Version**  | `>=3.10` (Tested on 3.10.8)              |
 
 
-## 📚 Future Enhancements
+# 📚 Future Enhancements
 
-# 🗓️ Calendar and schedule management
+## 🗓️ Calendar and schedule management
 
-# 🧠 Offline fallback with local LLM (e.g., Whisper.cpp + Llama)
+## 🧠 Offline fallback with local LLM (e.g., Whisper.cpp + Llama)
 
-# 📅 Daily briefing mode
+## 📅 Daily briefing mode
 
-# 🖼️ GUI version using Tkinter or Streamlit
+## 🖼️ GUI version using Tkinter or Streamlit
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 Mohammed Hamiz K
 
 AI & Software Enthusiast | Python | GPT | Cloud
 
-## "Building the future, one command at a time."
+# "Building the future, one command at a time."
 
