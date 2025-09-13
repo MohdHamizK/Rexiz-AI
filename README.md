@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://www.linkedin.com/in/mohammedhamizk" target="_blank">
-      <img src="https://github.com/MohdHamizK/Rexiz-AI/blob/main/ReadMET.png" alt="Project Banner">
+      <img src="https://github.com/MohdHamizK/Rexiz-AI/blob/main/Rexiz.png" alt="Project Banner">
     </a>
   <br />
   <h3 align="center">Rexiz AI – Your Voice-Controlled Personal Assistant.</h3>
